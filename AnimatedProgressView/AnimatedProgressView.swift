@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class BeautifulProgressBar: UIView {
+class AnimatedProgressView: UIView {
     
     private var indicatorView: UIView? = UIView()
     
